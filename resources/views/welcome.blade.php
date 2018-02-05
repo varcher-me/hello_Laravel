@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel - By Vagrant Archer using Homestead && PhpStorm.
+                    Laravel - By Vagrant Archer using Homestead && PhpStorm && Git.
                 </div>
 
                 <div class="links">
